@@ -1,4 +1,4 @@
-1. Exploring the Dataset
+1. Exploring the Dataset 
 
 SELECT location , date , total_cases , new_cases , total_deaths, population FROM NILAKSHIDB.`covid-2021-deaths`
 order by 3,4;
